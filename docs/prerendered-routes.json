@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/angular-project": {},
+    "/angular-project/add-coin": {},
+    "/angular-project/all": {},
+    "/angular-project/overview": {},
+    "/angular-project/upload": {}
+  }
+}

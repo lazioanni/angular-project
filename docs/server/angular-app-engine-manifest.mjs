@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/angular-project',
   supportedLocales: {
   "en-US": ""
 },
